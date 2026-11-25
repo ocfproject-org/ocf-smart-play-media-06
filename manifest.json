@@ -1,0 +1,56 @@
+{
+  "assets": {
+    "original-OCF-BOD-004": {
+      "bytes": 75598967,
+      "sha256": "b938dbf01b77ec70a68bf93a681a6d3307ab2598f7bf8a7798f5a4019b08b1bf",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-BOD-004---Detox---en-US---Mike---Original-Voice---v0.3.0-2be93162a170.flac"
+    },
+    "original-OCF-BOD-008": {
+      "bytes": 80960220,
+      "sha256": "165ec24a7135d20202c178e15fee332120b9c2de54229c3a88969949936f2276",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-BOD-008---Immune-Readiness---en-US---Mike---Original-Voice---v0.3.0-e5d07005dbba.flac"
+    },
+    "original-OCF-BOD-009": {
+      "bytes": 84455406,
+      "sha256": "2aab80740efca82e0f331110fb1e2e4d5f3991f0c8d8d671b7f3b784a2dc9d20",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-BOD-009---Breathe-Better---en-US---Mike---Original-Voice---v0.3.0-93311f535fa3.flac"
+    },
+    "original-OCF-BOD-013": {
+      "bytes": 83461492,
+      "sha256": "2c5a3a3e6a3c80efdcaae4e3a95aa543ff553f48a96d2620c45e02fd92a251fc",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-BOD-013---Body-Tune-Up---en-US---Mike---Original-Voice---v0.3.0-9536da28ef94.flac"
+    },
+    "original-OCF-EMG-001": {
+      "bytes": 90038839,
+      "sha256": "bea588556d07a5b1a284b6377de60e57867175444a70987ed2c23fc182395897",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-EMG-001---Injury-Response---en-US---Mike---Original-Voice---v0.3.0-e5d48516869d.flac"
+    },
+    "original-OCF-FND-001": {
+      "bytes": 89811714,
+      "sha256": "413a958e494a601e4e3a7602cb875c7fdf79d4cf06b7ada1a97aae060e499da6",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-FND-001---Access-to-Energy---en-US---Mike---Original-Voice---v0.3.0-de5677d682e3.flac"
+    },
+    "original-OCF-FND-002": {
+      "bytes": 73294958,
+      "sha256": "41eb40925f964d9ae75065c9b58cb579b9f283852918a6fb810a3cff18d140ff",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-FND-002---Focus---en-US---Mike---Original-Voice---v0.3.0-793251583ecd.flac"
+    },
+    "original-OCF-PRF-006": {
+      "bytes": 78185153,
+      "sha256": "6d62f3652bab81c37329cd62d9f45fe23db06b85a73fc152bfddea9f722ab0f4",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-PRF-006---Strong-Quick---en-US---Mike---Original-Voice---v0.3.0-029f0679e7d7.flac"
+    },
+    "original-OCF-SEN-004": {
+      "bytes": 85398033,
+      "sha256": "a452d8462c215ba8f930ebcaeda47e3f8f75c51b7b48ac3f784a7b92e888f61f",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-SEN-004---Taste---en-US---Mike---Original-Voice---v0.3.0-7f95299bf1b9.flac"
+    },
+    "original-OCF-SLP-003": {
+      "bytes": 79992347,
+      "sha256": "b9efbe54c0dfd770ac980f23ff82fe169c774865a0a758e4f2b83066ba23e5e9",
+      "source": "https://github.com/ocfproject-org/open-consciousness-functions-audio/releases/download/audio-0.3.0/OCF-SLP-003---Dream-Theme---en-US---Mike---Original-Voice---v0.3.0-1a97092ad47b.flac"
+    }
+  },
+  "route": "v0.3.0",
+  "schema": 1
+}
